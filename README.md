@@ -1,6 +1,3 @@
-# Distilled_Projects
-Collection of work that I've distilled myself.
-
 # Production Operations Dataset — Distillery Analytics Portfolio
 
 **Author:** Tarun Dev Dinesh  
